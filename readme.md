@@ -2,6 +2,9 @@
 Untuk soal nomor 1, 2, 4, 5 masih bisa dijalancan di es6console. Untuk soal nomor 3 mohon dijalankan di browser console saja, karena saya menggunakan document.write() :smile:  
 untuk yang lainnya saya buat sesuai petunjuk  
 Terima kasih  
+
+### **hampir lupa**
+kegunaan JSON pada REST api adalah sebagai perantara untuk bertukar data antar bahasa pemrograman, contohnya dari REST server PHP ke klien Mobile(java/javascript/swift)
   
 Screenshot Soal no 6
 ![arka-soalno6-1](https://user-images.githubusercontent.com/43369306/57177580-52cc2500-6e8f-11e9-9e60-1449046a6721.jpg)  
